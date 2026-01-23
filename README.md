@@ -1,6 +1,7 @@
 ## Hi, I'm Rahul
 
 Computer Science from GMU<br/>
+Currently pursuing Applied Machine learning at UMD<br/>
 I focus more on building niche web applications<br/>
 I'm a big nerd when it comes to PC building
 
